@@ -3,3 +3,4 @@ python-docx
 PyMuPDF
 nltk
 scikit-learn
+PyPDF2
