@@ -1,0 +1,30 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Streamlit config and cache
+.streamlit/
+
+# VS Code settings
+.vscode/
+
+# Python metadata
+pip-log.txt
+
+# Replit files
+.replit
+*.replit
+
+# UV lock file
+uv.lock
+
+# Twilio logs (if used)
+twilio-debug.log
